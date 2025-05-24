@@ -1,8 +1,12 @@
-# movie-recommender
+# 🎬 Movie Recommendation System
 
-## 📥 Download similarity.pkl
+This project is a content-based movie recommendation system built using Python and machine learning. It suggests movies based on your selected favorite using a similarity model.
 
-Before running the app, download the required file:
+---
+
+## 📥 Download `similarity.pkl`
+
+Before running the app, make sure to download the required precomputed similarity file by running:
 
 ```bash
 bash download_similarity.sh
