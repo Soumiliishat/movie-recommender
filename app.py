@@ -44,7 +44,7 @@ def recommend(movie):
 # Load saved data
 movies_dict = pickle.load(open('movie_dict.pkl', 'rb'))
 movies = pd.DataFrame(movies_dict)
-similarity = pickle.load(open('similarity.pkl', 'rb'))
+similarity = pickle.load(open('data/similarity.pkl', 'rb'))
 
 
 # Fetch trending movies from TMDb
