@@ -1,12 +1,13 @@
-# 🎬 Movie Recommendation System
+# 🎬 Movie Recommender System
 
-This project is a content-based movie recommendation system built using Python and machine learning. It suggests movies based on your selected favorite using a similarity model.
+This is a content-based movie recommender system built with Python and Streamlit. It uses movie metadata to suggest similar films based on a selected movie.
 
 ---
 
-## 📥 Download `similarity.pkl`
+## 📥 Download similarity.pkl
 
-Before running the app, make sure to download the required precomputed similarity file by running:
+Before running the app, make sure the required `similarity.pkl` file is downloaded:
 
 ```bash
 bash download_similarity.sh
+
