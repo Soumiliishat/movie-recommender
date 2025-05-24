@@ -1,2 +1,5 @@
+mkdir data
+move similarity.pkl data/
+
 similarity.pkl
 "similarity.pkl" 
