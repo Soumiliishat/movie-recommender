@@ -10,4 +10,3 @@ Before running the app, make sure the required `similarity.pkl` file is download
 
 ```bash
 bash download_similarity.sh
-
